@@ -1,0 +1,23 @@
+{
+  "name": "lesson_5",
+  "version": "1.0.0",
+  "description": "This is npm/external module testing lesson",
+  "main": "ExternalModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "external",
+    "module",
+    "country",
+    "name"
+  ],
+  "author": "Afnan Sultan Trino",
+  "license": "ISC",
+  "dependencies": {
+    "name-to-imdb": "^3.0.5",
+    "random-country": "^1.0.1"
+  }
+}
